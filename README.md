@@ -1,2 +1,1 @@
-# VBA-challenge
- VBA scripting to analyze real stock market data.
+# VBA Scripting to Analyze Real Stock Market Data
